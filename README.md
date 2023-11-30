@@ -32,7 +32,7 @@ The following libraries are to be installed before running the code:
 
 **To do**
 
-First download the dataset from [here](https://drive.google.com/drive/folders/1BbDhOj90ZrwXQv1zC2atX-fgaTtsGno3?usp=sharing) and code from [here](). Put both the dataset and code in a folder. 
+First download the dataset from [here](https://drive.google.com/drive/folders/1BbDhOj90ZrwXQv1zC2atX-fgaTtsGno3?usp=sharing) and code from [here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Prediction%20and%20Classification.ipynb). Put both the dataset and code in a folder. 
 
 Then assign the path of dataset to the variable "main_dir" as shown in the example below:
 
