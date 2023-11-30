@@ -13,7 +13,7 @@ Dataset used: WCE Curated Colon Disease Dataset Deep Learning.
 
 The dataset can be found [here](https://drive.google.com/drive/folders/1BbDhOj90ZrwXQv1zC2atX-fgaTtsGno3?usp=sharing).
 
-The dataset contains 4 classes:
+The dataset contains the following 4 classes:
 * Normal
 * Ulcerative_colitis
 * Polyps
