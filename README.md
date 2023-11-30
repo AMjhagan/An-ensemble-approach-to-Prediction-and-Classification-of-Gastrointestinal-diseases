@@ -9,7 +9,7 @@ The aim of this repository is to predict and classify gastrointestinal diseases 
 **About the dataset**
 
 
-Dataset used : WCE Curated Colon Disease Dataset Deep Learning.
+Dataset used: WCE Curated Colon Disease Dataset Deep Learning.
 
 The dataset can be found [here](https://drive.google.com/drive/folders/1BbDhOj90ZrwXQv1zC2atX-fgaTtsGno3?usp=sharing).
 
