@@ -6,9 +6,11 @@
 
 The aim of this repository is to predict and classify gastrointestinal diseases using a light weight mobile compatible ensemble approach. The three models used are NASNetMobile, MobileNetV3Large and EfficientNetB7. 
 
-A detailed video explaining this project can be found [here](https://youtu.be/gYgb3zhQskQ). [Here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Presentation.pptx) is the presentation used for the video.
+A detailed video explaining this project can be found [here](https://youtu.be/gYgb3zhQskQ). [Here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Presentation.pptx) is the PPT used for the video.
 
 The Research paper draft for this project can be found [here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Prediction%20and%20Classification%20of%20Gastrointestinal%20Diseases%20.pdf).
+
+The research papers which we used for reference can be found [here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/References.xlsx).
 <br /><br />
 
 **About the dataset**
