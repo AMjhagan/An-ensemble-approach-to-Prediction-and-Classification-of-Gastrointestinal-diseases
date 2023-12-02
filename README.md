@@ -1,4 +1,5 @@
 # An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases
+<br />
 
 **Aim**
 
@@ -8,7 +9,7 @@ The aim of this repository is to predict and classify gastrointestinal diseases 
 A detailed video explaining this project can be found [here](https://youtu.be/gYgb3zhQskQ). [Here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Presentation.pptx) is the presentation used for the video.
 
 A draft of the research paper for this project can be found [here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Prediction%20and%20Classification%20of%20Gastrointestinal%20Diseases%20.pdf).
-
+<br />
 
 **About the dataset**
 
@@ -22,10 +23,9 @@ The dataset contains the following 4 classes:
 * Ulcerative_colitis
 * Polyps
 * Esophagitis
-
+<br />
 
 **Prerequisites**
-
 
 The following libraries are to be installed before running the code:
 * numpy
@@ -33,6 +33,7 @@ The following libraries are to be installed before running the code:
 * matplotlib
 * keras
 * sklearn
+<br />
 
 **To do**
 
@@ -44,6 +45,7 @@ Then assign the path of dataset to the variable "main_dir" as shown in the examp
 #LOAD THE DATA
 main_dir = '../input/curated-colon-dataset-for-deep-learning/'
 ```
+<br />
 
 **Conclusion**
 
