@@ -9,7 +9,7 @@ The aim of this repository is to predict and classify gastrointestinal diseases 
 A detailed video explaining this project can be found [here](https://youtu.be/gYgb3zhQskQ). [Here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Presentation.pptx) is the presentation used for the video.
 
 A draft of the research paper for this project can be found [here](https://github.com/AMjhagan/An-ensemble-approach-to-Prediction-and-Classification-of-Gastrointestinal-diseases/blob/main/Prediction%20and%20Classification%20of%20Gastrointestinal%20Diseases%20.pdf).
-<br />
+<br /><br />
 
 **About the dataset**
 
