@@ -49,4 +49,4 @@ main_dir = '../input/curated-colon-dataset-for-deep-learning/'
 
 **Conclusion**
 
-This project demonstrated good performance with light weight mobile compatible models and achieved a validation loss of 0.3229 and validation accuracy of 0.8950. Thus it proves to be a valuable tool in the medical field in the future.
+This project demonstrated good performance with light weight mobile compatible models and achieved a validation loss of 0.1915 and validation accuracy of 0.9330. Thus it proves to be a valuable tool in the medical field in the future.
